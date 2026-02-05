@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Omkar Kandekar! 👋
+**Full Stack Developer | Python & FastAPI Enthusiast**
 
-<!--
-**Omkar1549/Omkar1549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **AI-integrated Marketplace Applications**.
+- 🌱 I’m currently learning **Advanced Backend Security & Docker**.
+- ⚡ Focus: **Performance Optimization (35% API speed improvement achieved).**
+- 💬 Ask me about **FastAPI, React, and PostgreSQL**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python, JavaScript, Java, SQL
+- **Backend:** FastAPI, Flask, REST APIs
+- **Frontend:** React.js, Tailwind CSS, HTML/CSS
+- **Tools:** Docker, Git, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar1549&show_icons=true&theme=vibrant)
