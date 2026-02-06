@@ -14,4 +14,4 @@
 - **Tools:** Docker, Git, Postman
 
 ### 📊 GitHub Activity
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar1549&show_icons=true&theme=dark&title_color=2563eb&icon_color=f97316&text_color=ffffff&bg_color=0d1117)
+![Stats](https://github-readme-stats.vercel.app/api?username=Omkar1549&show_icons=true&theme=tokyonight)
