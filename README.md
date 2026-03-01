@@ -1,5 +1,5 @@
 # Hi there, I'm Omkar Kandekar! 👋
-**Full Stack Engineer | FastAPI Specialist | Optimized Backend Systems for 35% Faster Response Times | Python • React • Docker**
+**Full Stack Engineer | FastAPI Specialist | Optimized Backend Systems Faster Response Times | Python • React • Docker**
 
 - 🔭 I’m currently building **AI-integrated systems** (Gemini API).
 - ⚡ **Impact:** Optimized backend APIs to improve performanceon top
