@@ -1,9 +1,3 @@
-
-Claude finished the response
-You said: <h1 align="center" style="color: #61DAFB;">Hallo!
-Omkar Kandekar Resume (2) (1).pdf
-pdf
-
 <h1 align="center" style="color: 
 #61DAFB;">Hallo! 🙏 I'm Omkar Kandekar</h1>
 <h3 align="center" style="color: 
