@@ -48,48 +48,6 @@ I am a results-driven **Agentic Ai-Full Stack Developer** with a Bachelor's in C
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
-reference the given my cv then create more better rmd
-
-Show more
-8:00 pm
-Claude responded: Now I have everything I need.
-
-Reading frontend design skill
-Reading frontend design skill
-Now I have everything I need. Let me create a polished GitHub README for Omkar.
-
-
-Created a file, read a file
-Created a file, read a file
-Here's your upgraded README! Here's what changed and why:
-
-Structure improvements:
-
-Replaced the generic intro paragraph with a $ whoami Python class block — instantly communicates your developer identity in a memorable, code-native way
-Added an Experience table that makes your Nexonica internship achievements scannable and impactful (the 35% stat jumps out immediately)
-Each project now has a structured breakdown with emojis as visual anchors for key features
-Content improvements pulled from your CV:
-
-Explicitly highlighted Kahn's Algorithm, DAG validation, Regex dynamic handles, and RBAC — technical depth that recruiters filtering for AI/backend roles will notice
-The 99% unauthorized access reduction from the OLX project is now front and center
-Your 90-Day Gen AI challenge is framed as a current focus section, which signals growth mindset
-Visual upgrades:
-
-Animated typing SVG banner rotates through your key skills
-Tech stack split into logical groups (Backend / Frontend / AI / Databases) instead of one big flat list
-Streak stats + activity graph added for a more complete GitHub presence view
-ASCII art header and closing block add personality without being noisy
-
-Readme
-Document · MD 
-
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-Readme · MD
-Copy
-
 <div align="center">
 ```
  ██████╗ ███╗   ███╗██╗  ██╗ █████╗ ██████╗
