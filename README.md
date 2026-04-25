@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #61DAFB;">Namaste! 🙏 I'm Omkar Kandekar</h1>
+<h1 align="center" style="color: #61DAFB;">Hallo! 🙏 I'm Omkar Kandekar</h1>
 <h3 align="center" style="color: #4DB33D;">🚀 Full Stack Developer | AI Enthusiast | Tech Entrepreneur</h3>
 
 <p align="center">
