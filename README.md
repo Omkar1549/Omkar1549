@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+AI-Driven+Web+Applications;⚡+FastAPI+%2B+React.js+%2B+PostgreSQL+%2B+Docker;🧠+DAG+Pipelines+%7C+RAG+Systems+%7C+Agentic+AI;📈Best+API+Performance+Boost+%40+Nexonica;🔥+90-Day+Gen+AI+Mastery+—+In+Progress)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCeznter=true&multiline=false&width=700&lines=🚀+Building+AI-Driven+Web+Applications;⚡+FastAPI+%2B+React.js+%2B+PostgreSQL+%2B+Docker;🧠+DAG+Pipelines+%7C+RAG+Systems+%7C+Agentic+AI;📈Best+API+Performance+Boost+%40+Nexonica;🔥+90-Day+Gen+AI+Mastery+—+In+Progress)](https://git.io/typing-svg)
 
 <br/>
 
